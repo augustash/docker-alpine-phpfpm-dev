@@ -1,4 +1,4 @@
-# Alpine PHP-FPM Image
+# Alpine PHP-FPM Development Image
 
 ![https://www.augustash.com](http://augustash.s3.amazonaws.com/logos/ash-inline-color-500.png)
 
@@ -6,7 +6,8 @@
 
 ## Versions
 
-- `1.0.0`, `latest` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/1.0.0/Dockerfile)
+- `1.0.1`, `latest` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/1.0.1/Dockerfile)
+- `1.0.0` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/1.0.0/Dockerfile)
 
 [See VERSIONS.md for image contents.](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/master/VERSIONS.md)
 
