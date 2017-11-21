@@ -1,12 +1,7 @@
-FROM augustash/alpine-phpfpm:1.0.0
-
-# environment
-ENV APKLIST \
-    php7-dev \
-    php7-xdebug
+FROM augustash/alpine-phpfpm:1.0.1
 
 # packages & configure
-RUN apk-install ${APKLIST} && \
+RUN apk-install php7-dev php7-xdebug && \
     apk-cleanup
 
 # copy root filesystem
