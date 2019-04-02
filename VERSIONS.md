@@ -4,9 +4,24 @@ This file contains all software versions used within a version of the image itse
 
 ## Latest
 
-Same as v3.0.0.
+Same as v3.0.1.
 
 Usage: `augustash/alpine-phpfpm-dev` or `augustash/alpine-phpfpm-dev:latest`.
+
+## v3.0.1
+
+- [augustash/alpine-phpfpm](https://github.com/augustash/docker-alpine-phpfpm/tree/3.0.1): v3.0.1
+- [augustash/alpine-base-s6](https://github.com/augustash/docker-alpine-base-s6/tree/3.0.0): v3.0.0
+- [alpinelinux](https://github.com/alpinelinux/docker-alpine/tree/v3.8): v3.8
+- [php](http://www.php.net/): v7.2.15
+- [Xdebug](https://xdebug.org/docs/all): v2.6.1
+
+*Improvements:*
+
+- Updates to PHP v7.2.15.
+- Installs correct development packages.
+
+Usage: `augustash/alpine-phpfpm-dev:3.0.1`.
 
 ## v3.0.0
 
