@@ -6,7 +6,8 @@
 
 ## Versions
 
-- `1.0.2`, `latest` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/1.0.2/Dockerfile)
+- `2.0.0`, `latest` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/2.0.0/Dockerfile)
+- `1.0.2` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/1.0.2/Dockerfile)
 - `1.0.1` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/1.0.1/Dockerfile)
 - `1.0.0` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/1.0.0/Dockerfile)
 
@@ -21,19 +22,27 @@
 These PHP extensions are enabled:
 
 - `bcmath`
+- `dom`
+- `ctype`
 - `curl`
+- `ftp`
 - `gd`
 - `iconv`
 - `intl`
+- `ioncube`
 - `json`
 - `mbstring`
 - `mcrypt`
 - `opcache`
+- `openssl`
 - `pdo`
 - `pdo_mysql`
+- `phar`
+- `posix`
 - `redis`
 - `soap`
-- `xml`
 - `xdebug`
+- `xml`
 - `xsl`
 - `zip`
+- `zlib`
