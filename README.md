@@ -6,7 +6,8 @@
 
 ## Versions
 
-- `3.0.1`, `latest` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/3.0.1/Dockerfile)
+- `4.0.0`, `latest` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/4.0.0/Dockerfile)
+- `3.0.1` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/3.0.1/Dockerfile)
 - `3.0.0` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/3.0.0/Dockerfile)
 - `2.0.0` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/2.0.0/Dockerfile)
 - `1.0.2` [(Dockerfile)](https://github.com/augustash/docker-alpine-phpfpm-dev/blob/1.0.2/Dockerfile)
@@ -34,7 +35,6 @@ These PHP extensions are enabled:
 - `ioncube`
 - `json`
 - `mbstring`
-- `mcrypt`
 - `opcache`
 - `openssl`
 - `pdo`

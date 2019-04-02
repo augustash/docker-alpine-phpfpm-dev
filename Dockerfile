@@ -1,4 +1,4 @@
-FROM augustash/alpine-phpfpm:3.0.1
+FROM augustash/alpine-phpfpm:4.0.0
 
 # packages & configure
 RUN apk-install php7-dev@php php7-xdebug@php sudo && \
